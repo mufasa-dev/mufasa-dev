@@ -2,10 +2,12 @@
 
 Experienced Full-Stack Developer with a passion for crafting robust websites and applications. Proficient in C#, Java, and JavaScript, specializing in frameworks like Angular, React, React Native, ASP and Node.js. Skilled in delivering high-quality code and implementing innovative solutions to complex challenges. A proactive team player with a strong focus on delivering exceptional user experiences. Open to new opportunities and eager to contribute to exciting projects.
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,angular,vue,svelte,solidjs,nodejs,express,nestjs,astro,java,spring,cs,dotnet,php,jest,vitest,postgres,mongodb,graphql,xd,ai,svg,blender,godot)](https://skillicons.dev)
+ 
 #
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa-dev&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa-dev&layout=compact&langs_count=10&hide=html,css,scss)
 
 </div>
 
