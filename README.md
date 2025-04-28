@@ -17,7 +17,7 @@ Experienced Full-Stack Developer with a passion for crafting robust websites and
 #
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa-dev&layout=compact&langs_count=10&hide=css,less,objective-c)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa-dev&layout=compact&langs_count=10&hide=css,less,objective-c&exclude_repo=Porto-Sul-Adventures)
 
 </div>
 
