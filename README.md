@@ -3,7 +3,7 @@
 Experienced Full-Stack Developer with a passion for crafting robust websites and applications. Proficient in C#, Java, and JavaScript, specializing in frameworks like Angular, Vue, React, React Native, Astro and Node.js. Skilled in delivering high-quality code and implementing innovative solutions to complex challenges. A proactive team player with a strong focus on delivering exceptional user experiences. Open to new opportunities and eager to contribute to exciting projects.
 
 ### Front-end skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,styledcomponents,bootstrap,gulp,jquery,react,redux,angular,vue,svelte,solidjs,nodejs,express,nextjs,astro,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,styledcomponents,bootstrap,gulp,jquery,react,redux,angular,vue,svelte,solidjs,vite,nodejs,express,nextjs,astro,jest)](https://skillicons.dev)
 
 ### Back-end skills:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,cs,dotnet,php,laravel,go,mysql,postgres,sqlite,mongodb,graphql)](https://skillicons.dev)
@@ -12,7 +12,7 @@ Experienced Full-Stack Developer with a passion for crafting robust websites and
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,azure,aws)](https://skillicons.dev)
 
 ### Others:
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,xd,ai,svg,blender,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ps,pr,xd,ai,svg,blender,godot)](https://skillicons.dev)
  
 #
 <div align="center">
