@@ -9,7 +9,7 @@ Experienced Full-Stack Developer with a passion for crafting robust websites and
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,cs,dotnet,go,rust,python,php,mysql,postgres,sqlite,mongodb,graphql)](https://skillicons.dev)
 
 ### Devops skills:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,azure,jenkins,aws)](https://skillicons.dev)
 
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,xd,ai,svg,blender,godot,linux,mint)](https://skillicons.dev)
